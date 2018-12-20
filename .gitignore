@@ -68,3 +68,13 @@ atlassian-ide-plugin.xml
 
 # NetBeans specific files/directories
 .nbattrs
+
+# Python venv
+/bin
+/include
+/lib
+/lib64
+/venv
+/pyvenv.cfg
+/pip-selfcheck.json
+
